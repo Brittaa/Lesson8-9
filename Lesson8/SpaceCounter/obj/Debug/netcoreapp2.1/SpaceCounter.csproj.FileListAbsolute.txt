@@ -1,0 +1,9 @@
+/Users/Britta/Desktop/Lesson8/Lesson8/SpaceCounter/bin/Debug/netcoreapp2.1/SpaceCounter.deps.json
+/Users/Britta/Desktop/Lesson8/Lesson8/SpaceCounter/bin/Debug/netcoreapp2.1/SpaceCounter.runtimeconfig.json
+/Users/Britta/Desktop/Lesson8/Lesson8/SpaceCounter/bin/Debug/netcoreapp2.1/SpaceCounter.runtimeconfig.dev.json
+/Users/Britta/Desktop/Lesson8/Lesson8/SpaceCounter/bin/Debug/netcoreapp2.1/SpaceCounter.dll
+/Users/Britta/Desktop/Lesson8/Lesson8/SpaceCounter/bin/Debug/netcoreapp2.1/SpaceCounter.pdb
+/Users/Britta/Desktop/Lesson8/Lesson8/SpaceCounter/obj/Debug/netcoreapp2.1/SpaceCounter.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Lesson8/Lesson8/SpaceCounter/obj/Debug/netcoreapp2.1/SpaceCounter.AssemblyInfo.cs
+/Users/Britta/Desktop/Lesson8/Lesson8/SpaceCounter/obj/Debug/netcoreapp2.1/SpaceCounter.dll
+/Users/Britta/Desktop/Lesson8/Lesson8/SpaceCounter/obj/Debug/netcoreapp2.1/SpaceCounter.pdb

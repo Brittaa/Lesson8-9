@@ -1,0 +1,10 @@
+/Users/Britta/Desktop/Lesson8/Lesson8/MyFunction/bin/Debug/netcoreapp2.1/MyFunction.deps.json
+/Users/Britta/Desktop/Lesson8/Lesson8/MyFunction/bin/Debug/netcoreapp2.1/MyFunction.runtimeconfig.json
+/Users/Britta/Desktop/Lesson8/Lesson8/MyFunction/bin/Debug/netcoreapp2.1/MyFunction.runtimeconfig.dev.json
+/Users/Britta/Desktop/Lesson8/Lesson8/MyFunction/bin/Debug/netcoreapp2.1/MyFunction.dll
+/Users/Britta/Desktop/Lesson8/Lesson8/MyFunction/bin/Debug/netcoreapp2.1/MyFunction.pdb
+/Users/Britta/Desktop/Lesson8/Lesson8/MyFunction/obj/Debug/netcoreapp2.1/MyFunction.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Lesson8/Lesson8/MyFunction/obj/Debug/netcoreapp2.1/MyFunction.AssemblyInfo.cs
+/Users/Britta/Desktop/Lesson8/Lesson8/MyFunction/obj/Debug/netcoreapp2.1/MyFunction.dll
+/Users/Britta/Desktop/Lesson8/Lesson8/MyFunction/obj/Debug/netcoreapp2.1/MyFunction.pdb
+/Users/Britta/Desktop/Lesson8/Lesson8/MyFunction/obj/Debug/netcoreapp2.1/MyFunction.csprojAssemblyReference.cache

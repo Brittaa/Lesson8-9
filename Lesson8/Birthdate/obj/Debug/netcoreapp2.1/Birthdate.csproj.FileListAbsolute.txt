@@ -1,0 +1,9 @@
+/Users/Britta/Desktop/Lesson8/Lesson8/Birthdate/bin/Debug/netcoreapp2.1/Birthdate.deps.json
+/Users/Britta/Desktop/Lesson8/Lesson8/Birthdate/bin/Debug/netcoreapp2.1/Birthdate.runtimeconfig.json
+/Users/Britta/Desktop/Lesson8/Lesson8/Birthdate/bin/Debug/netcoreapp2.1/Birthdate.runtimeconfig.dev.json
+/Users/Britta/Desktop/Lesson8/Lesson8/Birthdate/bin/Debug/netcoreapp2.1/Birthdate.dll
+/Users/Britta/Desktop/Lesson8/Lesson8/Birthdate/bin/Debug/netcoreapp2.1/Birthdate.pdb
+/Users/Britta/Desktop/Lesson8/Lesson8/Birthdate/obj/Debug/netcoreapp2.1/Birthdate.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Lesson8/Lesson8/Birthdate/obj/Debug/netcoreapp2.1/Birthdate.AssemblyInfo.cs
+/Users/Britta/Desktop/Lesson8/Lesson8/Birthdate/obj/Debug/netcoreapp2.1/Birthdate.dll
+/Users/Britta/Desktop/Lesson8/Lesson8/Birthdate/obj/Debug/netcoreapp2.1/Birthdate.pdb

@@ -1,0 +1,9 @@
+/Users/Britta/Desktop/Lesson8/Lesson8/IDReader/bin/Debug/netcoreapp2.1/IDReader.deps.json
+/Users/Britta/Desktop/Lesson8/Lesson8/IDReader/bin/Debug/netcoreapp2.1/IDReader.runtimeconfig.json
+/Users/Britta/Desktop/Lesson8/Lesson8/IDReader/bin/Debug/netcoreapp2.1/IDReader.runtimeconfig.dev.json
+/Users/Britta/Desktop/Lesson8/Lesson8/IDReader/bin/Debug/netcoreapp2.1/IDReader.dll
+/Users/Britta/Desktop/Lesson8/Lesson8/IDReader/bin/Debug/netcoreapp2.1/IDReader.pdb
+/Users/Britta/Desktop/Lesson8/Lesson8/IDReader/obj/Debug/netcoreapp2.1/IDReader.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Lesson8/Lesson8/IDReader/obj/Debug/netcoreapp2.1/IDReader.AssemblyInfo.cs
+/Users/Britta/Desktop/Lesson8/Lesson8/IDReader/obj/Debug/netcoreapp2.1/IDReader.dll
+/Users/Britta/Desktop/Lesson8/Lesson8/IDReader/obj/Debug/netcoreapp2.1/IDReader.pdb

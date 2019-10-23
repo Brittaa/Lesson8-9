@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{237CE4EE-4D4D-47FF-BB92-00BB4F748727}|Default">
+  <MonoDevelop.Ide.ItemProperties.Functions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Birthdate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SpaceCounter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IDReader/Program.cs">
+    <Files>
+      <File FileName="Lesson8/Program.cs" Line="70" Column="14" />
+      <File FileName="Functions/Program.cs" Line="1" Column="1" />
+      <File FileName="MyFunction/Program.cs" Line="1" Column="1" />
+      <File FileName="Lesson9/Program.cs" Line="51" Column="10" />
+      <File FileName="SpaceCounter/Program.cs" Line="27" Column="1" />
+      <File FileName="Birthdate/Program.cs" Line="16" Column="10" />
+      <File FileName="IDReader/Program.cs" Line="36" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lesson9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.IDReader PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyFunction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lesson8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

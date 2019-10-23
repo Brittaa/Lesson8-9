@@ -1,0 +1,10 @@
+/Users/Britta/Desktop/Lesson8/Lesson8/Lesson8/obj/Debug/netcoreapp2.1/Lesson8.csprojAssemblyReference.cache
+/Users/Britta/Desktop/Lesson8/Lesson8/Lesson8/obj/Debug/netcoreapp2.1/Lesson8.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Lesson8/Lesson8/Lesson8/obj/Debug/netcoreapp2.1/Lesson8.AssemblyInfo.cs
+/Users/Britta/Desktop/Lesson8/Lesson8/Lesson8/bin/Debug/netcoreapp2.1/Lesson8.deps.json
+/Users/Britta/Desktop/Lesson8/Lesson8/Lesson8/bin/Debug/netcoreapp2.1/Lesson8.runtimeconfig.json
+/Users/Britta/Desktop/Lesson8/Lesson8/Lesson8/bin/Debug/netcoreapp2.1/Lesson8.runtimeconfig.dev.json
+/Users/Britta/Desktop/Lesson8/Lesson8/Lesson8/bin/Debug/netcoreapp2.1/Lesson8.dll
+/Users/Britta/Desktop/Lesson8/Lesson8/Lesson8/bin/Debug/netcoreapp2.1/Lesson8.pdb
+/Users/Britta/Desktop/Lesson8/Lesson8/Lesson8/obj/Debug/netcoreapp2.1/Lesson8.dll
+/Users/Britta/Desktop/Lesson8/Lesson8/Lesson8/obj/Debug/netcoreapp2.1/Lesson8.pdb

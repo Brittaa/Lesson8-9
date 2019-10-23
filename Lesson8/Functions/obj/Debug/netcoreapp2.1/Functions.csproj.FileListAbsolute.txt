@@ -1,0 +1,9 @@
+/Users/Britta/Desktop/Lesson8/Lesson8/Functions/bin/Debug/netcoreapp2.1/Functions.deps.json
+/Users/Britta/Desktop/Lesson8/Lesson8/Functions/bin/Debug/netcoreapp2.1/Functions.runtimeconfig.json
+/Users/Britta/Desktop/Lesson8/Lesson8/Functions/bin/Debug/netcoreapp2.1/Functions.runtimeconfig.dev.json
+/Users/Britta/Desktop/Lesson8/Lesson8/Functions/bin/Debug/netcoreapp2.1/Functions.dll
+/Users/Britta/Desktop/Lesson8/Lesson8/Functions/bin/Debug/netcoreapp2.1/Functions.pdb
+/Users/Britta/Desktop/Lesson8/Lesson8/Functions/obj/Debug/netcoreapp2.1/Functions.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Lesson8/Lesson8/Functions/obj/Debug/netcoreapp2.1/Functions.AssemblyInfo.cs
+/Users/Britta/Desktop/Lesson8/Lesson8/Functions/obj/Debug/netcoreapp2.1/Functions.dll
+/Users/Britta/Desktop/Lesson8/Lesson8/Functions/obj/Debug/netcoreapp2.1/Functions.pdb
